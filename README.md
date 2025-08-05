@@ -117,11 +117,3 @@ Feel free to open issues or reach out on GitHub for questions or feedback.
 
 ---
 
-## Acknowledgments
-
-- MediaPipe for hand landmark detection.
-- TensorFlow for deep learning framework.
-- CustomTkinter for modern UI components.
-- Inspired by tutorials and projects on ASL recognition using hand landmarks and CNNs.
-
----
