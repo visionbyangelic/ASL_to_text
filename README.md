@@ -112,7 +112,7 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-Created by [Heaven](https://github.com/nerdyalgorithm) (GitHub username: **nerdyalgorithm**).  
+Created by [ANGELIC](https://github.com/visionbyangelic) (GitHub username: **visionbyangelic**).  
 Feel free to open issues or reach out on GitHub for questions or feedback.
 
 ---
